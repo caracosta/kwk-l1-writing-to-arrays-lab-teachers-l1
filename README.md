@@ -13,9 +13,11 @@ array with the following colors:
 
 ```ruby
 rainbow_colors = [
-  "yellow",
-  "default",
-  "light_cyan"
+  "red",
+  "light_red",
+  "light_yellow"
+  "green"
+  "blue"
 ]
 ```
 
